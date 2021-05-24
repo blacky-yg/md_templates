@@ -7,25 +7,25 @@
 ## PREREQUISITES
 What do you need to install ?
 ```bash
-GlibC
-gcc
-make
+$
 ```
 
 ## HOW TO BUILD
 Clone and go into `reponame` directory.
 Then,
 ```bash
-$ make
+$
 ```
 
 ## USAGE
-Type `... -h` to displat help
+Type `... -h` to display help
 
 USAGE
 
 ## EXAMPLES
 ![img](path)
+
+## REVIEW PRESENTATION
 
 ## SUMMARY
 
@@ -37,12 +37,10 @@ USAGE
 
 :warning: : For EPITECH Students, don't use this repository. Pay attention to :no_entry: 42
 
+---
 
 <div align="center">
 
----
-
-<a href="https://www.linkedin.com/in/hamidou-tessilimi-03820a170/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://dev.to/blacky_yg" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
 
 </div>

@@ -15,12 +15,20 @@
     </thead>
     <tbody>
         <tr>
-            <td>Infinadd</td>
-            <td>Some Descriion</td>
+            <td><a href="./module" src="./module">Module Code (Module Name)</td>
+            <td>Some Descripion</td>
         </tr>
         <tr>
-            <td>EvalExpr</td>
+            <td><a href="./module" src="./module">Module Code (Module Name)</a></td>
             <td>Some Description</td>
         </tr>
     </tbody>
 </table>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>
